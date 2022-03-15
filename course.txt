@@ -1,0 +1,8 @@
+Writing from Python, line 1
+Writing from Python, line 2
+Writing from Python, line 1
+Writing from Python, line 2
+Writing from Python, new line
+Writing from Python, even newer line
+Writing from Python, new line
+Writing from Python, even newer line
