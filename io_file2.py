@@ -3,12 +3,15 @@ try:
     #     file_lines = file_var.readlines()
     #     for line in file_lines:
     #         print(line.rstrip("\n"))
+
     # with open("course.txt", "w") as file_var:
     #     file_var.write("Writing from Python, line 1\n")
     #     file_var.write("Writing from Python, line 2")
+
     # with open("course.txt", "a") as file_var:
     #     file_var.write("Writing from Python, line 1\n")
     #     file_var.write("Writing from Python, line 2\n")
+
     with open("course.txt", "r+") as file_var:
         file_lines = file_var.readlines()
         for line in file_lines:
